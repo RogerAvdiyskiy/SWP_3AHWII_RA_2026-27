@@ -1,0 +1,11 @@
+node_modules/
+.deno/
+*.db
+*.sqlite
+*.sqlite3
+.env
+tmp/
+dist/
+.DS_Store
+.vscode/workspace.json
+
